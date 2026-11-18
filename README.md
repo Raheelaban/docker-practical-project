@@ -27,3 +27,4 @@ http://SERVER_IP:8082
 ## Stop the Application
 
 sudo docker compose down
+This project was deployed using Git and GitHub.
